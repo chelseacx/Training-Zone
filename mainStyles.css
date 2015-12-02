@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container {
+	background-color: #FFF;
+	width: 950px;
+	margin: auto;
+}
+
+#header {
+	background-color: #CCC;
+	alignment-adjust:central
+	width: 100%;
+}
+
+
+#nav_bar {
+
+}
+
+
+#body {
+
+}
+
+#footer {
+
+}
